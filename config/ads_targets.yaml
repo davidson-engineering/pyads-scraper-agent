@@ -1,0 +1,9 @@
+PLC1:
+  ams_net_id: "127.0.0.1.1.1"
+  ip_address: "127.0.0.1"
+  ams_net_port: 851
+  update_interval: 0.1
+  data_names:
+  - var1
+  - var2
+  - var3
